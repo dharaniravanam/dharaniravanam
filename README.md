@@ -6,6 +6,12 @@ I build **AI-powered systems, computer vision pipelines, LLM/RAG models, and edu
 
 ---
 
+## 🛠 Tech & Skills
+
+Python | Java | SQL/PLSQL | YOLOv8 | CNNs | NLP | Transformers | Qdrant | Vertex AI (GCP) | Docker | OpenCV | GameMaker Studio | REST APIs
+
+---
+
 ## 🔹 Featured Projects
 
 - [**Forest Fire Detection**](https://github.com/dharaniravanam/forest_fire_detection)  
@@ -31,12 +37,6 @@ I build **AI-powered systems, computer vision pipelines, LLM/RAG models, and edu
 - [**Disaster Recovery Game**](https://github.com/dharaniravanam/disaster-recovery-game)  
   **Tech:** Python, JSON, Modular Architecture, PyInstaller  
   Simulates disaster recovery and software engineering decision-making.
-
----
-
-## 🛠 Tech & Skills
-
-Python | Java | SQL/PLSQL | YOLOv8 | CNNs | NLP | Transformers | Qdrant | Vertex AI (GCP) | Docker | OpenCV | GameMaker Studio | REST APIs
 
 ---
 
