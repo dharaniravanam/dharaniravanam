@@ -1,6 +1,6 @@
 # Hi, I'm Dharani Ravanam 👋
 
-**MSc in Computer Science | AI/ML Engineer | Software Developer**
+**MS in Computer Science | AI/ML Engineer | Software Developer**
 
 I build **AI-powered systems, computer vision pipelines, LLM/RAG models, and educational games**. Experienced in research, software engineering, and ML deployment on the cloud.
 
